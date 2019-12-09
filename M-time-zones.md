@@ -5,7 +5,7 @@
 
 | TZ   | Offset                      | States/Territories  | 
 |------| ----------------------------|---------------------|
-| AEST | UTC +10:00 [36000 = 0x8ca0] | QLD,NSW,ACT,VIC,TAS |
+| AEST | UTC +10:00 [36000 = 0x8ca0] | ACT,NSW,QLD,TAS,VIC |
 | ACST | UTC +09:30 [34200 = 0x‭8598‬] | NT,SA               |
 | AWCT | UTC +08:00 [‭28800‬ = 0x‭7080‬] | WA                  |
 
@@ -13,9 +13,9 @@
 
 | DST               | States          |
 |-------------------|-----------------|
-| AEDT (UTC +11:00) | NSW,ACT,VIC,TAS |
+| AEDT (UTC +11:00) | ACT,NSW,TAS,VIC |
 | ACDT (UTC +10:30) | SA              |
-| n/a               | QLD,NT,WA       |
+| n/a               | NT,QLD,WA       |
 
 ## States/Territories
 
